@@ -2,8 +2,9 @@
 
 - 🔭 Atualmente estou trabalhando full-stack em interfaces e aplicativos android
 - 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas no Senai
-- 👯 Estou buscando meu primeiro estágio
+- 🧑🏽‍💻 Estou buscando meu primeiro estágio
 - 📫 E-mail: esron2011@gmail.com
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Esron-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

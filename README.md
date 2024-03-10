@@ -1,9 +1,9 @@
 ## Olá, sou o Esron! 👋😎
 
-- 🔭 Atualmente estou trabalhando full-stack em interfaces e aplicativos android
-- 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas no Senai
-- 🧑🏽‍💻 Estou buscando meu primeiro estágio
-- 📫 E-mail: esron2011@gmail.com
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Técnico em Desenvolvimento de Sistemas
+- 🧑🏽‍💻 Monitor na Infinity School
+- 📫 E-mail: linhares.esron@gmail.com
 
 ## Meu primeiro site (HTML & CSS)
 

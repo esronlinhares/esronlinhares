@@ -1,7 +1,7 @@
 ## Olá, sou o Esron! 👋😎
 
-- 👨🏽‍🏫 Monitor na Infinity School
 - 🧑🏽‍💻 Desenvolvedor Full Stack
+- 👨🏽‍🏫 Monitor na Infinity School
 - 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Email: linhares.esron@gmail.com

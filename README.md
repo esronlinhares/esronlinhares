@@ -15,6 +15,8 @@ https://esronlinhares.github.io/Esron/
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esronlinhares&layout=compact&langs_count=7&theme=github_dark"/>
 
+##
+
 Minhas skills:
 <div style="display: inline_block">
   <img align="center" alt="Esron-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -26,6 +28,14 @@ Minhas skills:
   <img align="center" alt="Esron-Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Esron-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Esron-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+</div>
+
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{beniciodev}/count.svg" /></p> 
+<br>
 </div>
 
 ##

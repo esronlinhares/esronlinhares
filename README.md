@@ -15,7 +15,7 @@ https://esronlinhares.github.io/Esron/
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esronlinhares&layout=compact&langs_count=7&theme=github_dark"/>
 
-Minhas skills:<br>
+Minhas skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Esron-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Esron-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,8 +26,6 @@ Minhas skills:<br>
   <img align="center" alt="Esron-Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Esron-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Esron-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
-  <img align="right" alt="Esron-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/523392633859473408/1102274108584099890/Logo_Esron.png?width=538&height=538">
-          
 </div>
 
 ##

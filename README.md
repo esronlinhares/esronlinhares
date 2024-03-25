@@ -2,9 +2,9 @@
 
 - 👨🏽‍🏫 Monitor na Infinity School
 - 🧑🏽‍💻 Desenvolvedor Full Stack
-- 📚 Análise e Desenvolvimento de Sistemas 1/5
 - 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
-- 📫 E-mail: linhares.esron@gmail.com
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
+- 📫 Email: linhares.esron@gmail.com
 
 ## Meu primeiro site (HTML & CSS)
 
@@ -15,6 +15,7 @@ https://esronlinhares.github.io/Esron/
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esronlinhares&layout=compact&langs_count=7&theme=github_dark"/>
 
+Minhas skills:<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Esron-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Esron-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

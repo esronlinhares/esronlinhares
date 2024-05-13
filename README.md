@@ -1,14 +1,9 @@
 ## Olá, sou o Esron! 👋😎
 
 - 🧑🏽‍💻 Desenvolvedor Full Stack
-- 👨🏽‍🏫 Monitor na Infinity School
 - 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Email: linhares.esron@gmail.com
-
-## Meu primeiro site (HTML & CSS)
-
-https://esronlinhares.github.io/Esron/
 
 ## Status
 ![Esron GitHub stats](https://github-readme-stats.vercel.app/api?username=esronlinhares&show_icons=true&theme=github_dark)

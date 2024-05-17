@@ -5,6 +5,16 @@
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Email: linhares.esron@gmail.com
 
+## Simplebox (React Native)
+
+Simplebox - Sistema de Endereçamento de Estoque
+
+Este aplicativo foi criado em 2023, equanto estudava no Senai. Inicialmente, era um projeto do módulo de Modelagem de Sistemas, que evoluiu para um projeto do Inova Senai. Pesquisei dentro do Senai alguma área que necessitava de uma solução para algum problema real e, no almoxarifado, encontrei um porblema que poderia ser facilmente resolvido com um aplicativo ou site, que era a falta de enderaçamento dos produtos em estoque.
+
+Este aplicativo permite que você crie um mapa do seu estoque, incluindo ruas e compartimentos de cada uma delas. Cadastrar os produtos e os endereçar de acordo com o mapa que você criou e, posteriormente, buscando-os na área de pesquisa para poder retirar e dar baixa no sistema de forma automática.
+
+https://github.com/esronlinhares/simplebox.git
+
 ## Status
 ![Esron GitHub stats](https://github-readme-stats.vercel.app/api?username=esronlinhares&show_icons=true&theme=github_dark)
 

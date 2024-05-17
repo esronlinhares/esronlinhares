@@ -6,7 +6,7 @@
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Email: linhares.esron@gmail.com
 
-## Simplebox (React Native)
+## Simplebox (React Native & Firebase)
 
 Simplebox - Sistema de Endereçamento de Estoque
 

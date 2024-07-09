@@ -1,7 +1,7 @@
 ## Olá, sou o Esron! 👋😎
 
 - 🧑🏽‍💻 Desenvolvedor Full-Stack
-- ⚛️ React e React Native
+- ⚛️ React / React Native / Java / Python
 - 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Email: linhares.esron@gmail.com

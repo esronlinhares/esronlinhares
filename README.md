@@ -3,7 +3,7 @@
 - 🧑🏽‍💻 Desenvolvedor Full-Stack
 - ⚛️ React / React Native / Java / Python
 - 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas 1/5
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas 2/5
 - 📫 Email: linhares.esron@gmail.com
 
 ## Simplebox (React Native & Firebase)
